@@ -7,7 +7,7 @@ public class Evaluation {
 
 	public static final int treeNumber = 4;
 	public static final int fruitStartNumber = 4;
-	public static final int ravenGoal = 5;
+	public static final int ravenGoal = 6;
 	public static final int nbIterations = 10_000_000;
 	public static final Random r = new Random();
 
